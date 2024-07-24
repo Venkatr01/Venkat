@@ -9,6 +9,10 @@
 
   .hero {
     max-width: 200px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    border-radius: 1000px;
+    background: gray;
   }
 
   span {
